@@ -1,2 +1,4 @@
-# Initial page
+# Bayesian-network
+
+贝叶斯网络
 
